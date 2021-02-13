@@ -50,8 +50,8 @@ export async function pageIncludesLabels(
   const elementQueries = getQueryAsElementArray(query, options.selector);
 
   const resolved = await Promise.all(
-    elementQueries.map(async query => {
-      const selector = {...options, selector: query.container};
+    elementQueries.map(async query1 => {
+      const selector = {...options, selector: query1.container};
       const contents = (await extractPageContents(page, selector)) ?? '';
 
       if (!contents) {
@@ -60,7 +60,7 @@ export async function pageIncludesLabels(
 
       logger.debug(contents);
 
-      return includesLabels(contents, query.text);
+      return includesLabels(contents, query1.text);
     })
   );
 

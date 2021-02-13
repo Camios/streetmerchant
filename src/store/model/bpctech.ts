@@ -12,8 +12,69 @@ export const Bpctech: Store = {
       container: 'div.price-box.price-final_price > span > span',
       euroFormat: false,
     },
+    outOfStock: {
+      container:
+        '#maincontent > div.columns > div.column.main > div.product-view > div > div.product-info-main.product-shop.col-md-6.col-12.col > div.product-shop-content.clearfix > div.product-info-price > div.product-info-stock-sku > div.row.productStockStatus.callForEta > div.col-sm-4',
+      text: ['Call for ETA'],
+    },
   },
   links: [
+    // {
+    //   brand: 'msi',
+    //   model: 'twin fan',
+    //   series: '3060ti',
+    //   url:
+    //     'https://www.bpctech.com.au/rtx3060ti-twin-fan-oc-msi-geforce-rtx-3060-ti-twin-fan-oc-8gb-video-card.html',
+    // },
+    // {
+    //   brand: 'galax',
+    //   model: 'sg oc',
+    //   series: '3060ti',
+    //   url:
+    //     'https://www.bpctech.com.au/37nsl6md2koc-galax-geforce-rtx-3070-1-click-oc-8gb-video-card.html',
+    // },
+    // {
+    //   brand: 'inno3d',
+    //   model: 'twin x2',
+    //   series: '3060ti',
+    //   url:
+    //     'https://www.bpctech.com.au/n306t2-08d6x-1190va32d-inno3d-geforce-rtx-3060-ti-twin-x2-oc-8gb-video-card.html',
+    // },
+    // {
+    //   brand: 'msi',
+    //   model: 'ventus 2x oc',
+    //   series: '3060ti',
+    //   url:
+    //     'https://www.bpctech.com.au/rtx3060ti-ventus-2x-oc-msi-geforce-rtx-3060-ti-ventus-2x-8gb-video-card.html',
+    // },
+    // {
+    //   brand: 'gigabyte',
+    //   model: 'eagle oc',
+    //   series: '3060ti',
+    //   url:
+    //     'https://www.bpctech.com.au/gv-n306teagle-oc-8gd-gigabyte-geforce-rtx-3060-ti-eagle-oc-8gd-video-card.html',
+    // },
+    // {
+    //   brand: 'inno3d',
+    //   model: 'ichill x3',
+    //   series: '3060ti',
+    //   url:
+    //     'https://www.bpctech.com.au/c306t3-08d6x-1671va39-inno3d-geforce-rtx-3060-ti-ichill-x3-red-8gb-video-card.html',
+    // },
+    // {
+    //   brand: 'asus',
+    //   model: 'dual oc',
+    //   series: '3060ti',
+    //   url:
+    //     'https://www.bpctech.com.au/dual-rtx3060ti-o8g-asus-geforce-rtx-3060-ti-dual-oc-8gb-video-card.html',
+    // },
+    // {
+    //   brand: 'inno3d',
+    //   model: 'twin x2',
+    //   series: '3070',
+    //   url:
+    //     'https://www.bpctech.com.au/n30702-08d6x-1710va32l-inno3d-geforce-rtx-3070-twin-x2-oc-8gb-video-card.html',
+    // },
     {
       brand: 'asus',
       model: 'tuf',

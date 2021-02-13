@@ -20,6 +20,125 @@ export const Umart: Store = {
   links: [
     {
       brand: 'asus',
+      model: 'tuf',
+      series: '3060ti',
+      url:
+        'https://www.umart.com.au/Asus-GeForce-RTX-3060-Ti-TUF-Gaming-8G-Graphics-Card_57643G.html',
+    },
+    {
+      brand: 'asus',
+      model: 'tuf oc',
+      series: '3060ti',
+      url:
+        'https://www.umart.com.au/Asus-GeForce-RTX-3060-Ti-TUF-Gaming-OC-8G-Graphics-Card_57642G.html',
+    },
+    {
+      brand: 'asus',
+      model: 'dual oc',
+      series: '3060ti',
+      url:
+        'https://www.umart.com.au/Asus-GeForce-RTX-3060-Ti-Dual-OC-8G-Graphics-Card_57644G.html',
+    },
+    {
+      brand: 'gigabyte',
+      model: 'gaming oc pro',
+      series: '3060ti',
+      url:
+        'https://www.umart.com.au/Gigabyte-GeForce-RTX-3060-Ti-Gaming-OC-Pro-8G-Graphics-Card_57621G.html',
+    },
+    {
+      brand: 'gigabyte',
+      model: 'aorus master',
+      series: '3060ti',
+      url:
+        'https://www.umart.com.au/Gigabyte-GeForce-RTX-3060-Ti-Master-8G-Graphics-Card_57629G.html',
+    },
+    {
+      brand: 'msi',
+      model: 'gaming x trio',
+      series: '3060ti',
+      url:
+        'https://www.umart.com.au/MSI-GeForce-RTX-3060-Ti-Gaming-X-Trio-8G-Graphics-Card_57624G.html',
+    },
+    {
+      brand: 'asus',
+      model: 'strix',
+      series: '3060ti',
+      url:
+        'https://www.umart.com.au/Gigabyte-GeForce-RTX-3060-Ti-Gaming-OC-Pro-8G-Graphics-Card_57621G.html',
+    },
+    {
+      brand: 'msi',
+      model: 'ventus 2x oc',
+      series: '3060ti',
+      url:
+        'https://www.umart.com.au/MSI-GeForce-RTX-3060-Ti-Ventus-2X-OC-8G-Graphics-Card_57625G.html',
+    },
+    {
+      brand: 'gigabyte',
+      model: 'gaming oc',
+      series: '3060ti',
+      url:
+        'https://www.umart.com.au/Gigabyte-GeForce-RTX-3060-Ti-Gaming-OC-8G-Graphics-Card_57622G.html',
+    },
+    {
+      brand: 'asus',
+      model: 'dual',
+      series: '3060ti',
+      url:
+        'https://www.umart.com.au/Asus-GeForce-RTX-3060-Ti-Dual-8G-Graphics-Card_57645G.html',
+    },
+    {
+      brand: 'msi',
+      model: 'ventus 2x oc',
+      series: '3060ti',
+      url:
+        'https://www.umart.com.au/MSI-GeForce-RTX-3060-Ti-Ventus-2X-OC-8G-Graphics-Card_57625G.html',
+    },
+    {
+      brand: 'gigabyte',
+      model: 'eagle oc',
+      series: '3060ti',
+      url:
+        'https://www.umart.com.au/Gigabyte-GeForce-RTX-3060-Ti-Eagle-OC-8G-Graphics-Card_57623G.html',
+    },
+    {
+      brand: 'galax',
+      model: 'ex',
+      series: '3060ti',
+      url:
+        'https://www.umart.com.au/Galax-GeForce-RTX-3060-Ti-EX-8G-Graphics-Card_57628G.html',
+    },
+    {
+      brand: 'inno3d',
+      model: 'ichill x3',
+      series: '3060ti',
+      url:
+        'https://www.umart.com.au/Inno3D-GeForce-RTX-3060-Ti-iChill-X3-8G-Graphics-Card_57730G.html',
+    },
+    {
+      brand: 'galax',
+      model: '1-click oc',
+      series: '3060ti',
+      url:
+        'https://www.umart.com.au/Galax-GeForce-RTX-3060-Ti-1-Click-OC-8G-Graphics-Card_57627G.html',
+    },
+    {
+      brand: 'msi',
+      model: 'twin fan oc',
+      series: '3060ti',
+      url:
+        'https://www.umart.com.au/MSI-GeForce-RTX-3060-Ti-Twin-Fan-OC-8G-Graphics-Card_57626G.html',
+    },
+    {
+      brand: 'inno3d',
+      model: 'twin x2',
+      series: '3060ti',
+      url:
+        'https://www.umart.com.au/Inno3D-GeForce-RTX-3060-Ti-Twin-X2-8G-OC-Graphics-Card_57731G.html',
+    },
+    {
+      brand: 'asus',
       model: 'strix',
       series: '3080',
       url:

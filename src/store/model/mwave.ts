@@ -8,10 +8,23 @@ export const Mwave: Store = {
       container: 'div.divPriceNormal > div',
       euroFormat: false,
     },
-    outOfStock: {
-      container: '.stockAndDelivery > li:nth-child(1) > dl > dd',
-      text: ['Currently No Stock'],
-    },
+    outOfStock: [
+      {
+        container:
+          'body > div.promotionWrapper > div > div:nth-child(2) > div.productCommon > div.basicInfos > h1:nth-child(5) > span',
+        text: ['This Product is currently unavailable'],
+      },
+      {
+        container:
+          'body > div.promotionWrapper > div > div:nth-child(2) > div.productCommon > div.basicInfos > h1:nth-child(4) > span',
+        text: ['This Product is currently unavailable'],
+      },
+      {
+        container:
+          'body > div.promotionWrapper > div > div:nth-child(2) > div.productCommon > div.basicInfos > ul > li:nth-child(1) > dl > dd',
+        text: ['Currently No Stock'],
+      },
+    ],
   },
   links: [
     {
