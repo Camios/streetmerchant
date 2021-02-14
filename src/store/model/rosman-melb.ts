@@ -48,20 +48,20 @@ export const RosmanMelb: Store = {
       url:
         'https://rosmancomputers.com.au/asus-nvidia-rog-strix-geforce-rtx-3080-buffed-up-design-with-chart-topping-thermal-performance/',
     },
-    {
-      brand: 'gigabyte',
-      model: 'eagle oc',
-      series: '3080',
-      url:
-        'https://rosmancomputers.com.au/gigabyte-geforce-rtx-3080-eagle-oc-10gb/',
-    },
-    {
-      brand: 'gigabyte',
-      model: 'aorus master',
-      series: '3080',
-      url:
-        'https://rosmancomputers.com.au/gigabyte-nvidia-gv-n3080aorusm-10gd1/',
-    },
+    // {
+    //   brand: 'gigabyte',
+    //   model: 'eagle oc',
+    //   series: '3080',
+    //   url:
+    //     'https://rosmancomputers.com.au/gigabyte-geforce-rtx-3080-eagle-oc-10gb/',
+    // },
+    // {
+    //   brand: 'gigabyte',
+    //   model: 'aorus master',
+    //   series: '3080',
+    //   url:
+    //     'https://rosmancomputers.com.au/gigabyte-nvidia-gv-n3080aorusm-10gd1/',
+    // },
     {
       brand: 'gigabyte',
       model: 'aorus xtreme',
@@ -75,13 +75,13 @@ export const RosmanMelb: Store = {
       url:
         'https://rosmancomputers.com.au/gigabyte-aorus-geforce-rtx-3080-xtreme-waterforce-10gb-video-card/',
     },
-    {
-      brand: 'gigabyte',
-      model: 'aorus xtreme waterforce wb',
-      series: '3080',
-      url:
-        'https://rosmancomputers.com.au/gigabyte-gv-n3080aorusx-wb-10gd-nvidia/',
-    },
+    // {
+    //   brand: 'gigabyte',
+    //   model: 'aorus xtreme waterforce wb',
+    //   series: '3080',
+    //   url:
+    //     'https://rosmancomputers.com.au/gigabyte-gv-n3080aorusx-wb-10gd-nvidia/',
+    // },
     {
       brand: 'inno3d',
       model: 'ichill x4',
