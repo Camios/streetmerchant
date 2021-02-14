@@ -199,13 +199,13 @@ export const Bpctech: Store = {
       url:
         'https://www.bpctech.com.au/n30802-106xx-1810va34-inno3d-geforce-rtx-3080-twin-x2-oc-10gb-video-card.html',
     },
-    {
-      brand: 'leadtek',
-      model: 'hurricane',
-      series: '3080',
-      url:
-        'https://www.bpctech.com.au/rtx3080-hurricane-leadtek-geforce-rtx-3080-hurricane-10gb-video-card.html',
-    },
+    // {
+    //   brand: 'leadtek',
+    //   model: 'hurricane',
+    //   series: '3080',
+    //   url:
+    //     'https://www.bpctech.com.au/rtx3080-hurricane-leadtek-geforce-rtx-3080-hurricane-10gb-video-card.html',
+    // },
     {
       brand: 'msi',
       model: 'suprim x',

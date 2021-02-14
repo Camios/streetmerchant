@@ -39,13 +39,13 @@ export const PCByte: Store = {
       url:
         'https://www.pcbyte.com.au/store/product/asus-nvidia-geforce-rtx-3080-rog-strix-oc-10gb-video-card-rog-strix-rtx3080-o10g-gaming-57717',
     },
-    {
-      brand: 'asus',
-      model: 'strix oc white',
-      series: '3080',
-      url:
-        'https://www.pcbyte.com.au/store/product/asus-nvidia-geforce-rtx-3080-rog-strix-oc-10gb-video-card-white-rog-strix-rtx3080-o10g-white-151575',
-    },
+    // {
+    //   brand: 'asus',
+    //   model: 'strix oc white',
+    //   series: '3080',
+    //   url:
+    //     'https://www.pcbyte.com.au/store/product/asus-nvidia-geforce-rtx-3080-rog-strix-oc-10gb-video-card-white-rog-strix-rtx3080-o10g-white-151575',
+    // },
     {
       brand: 'galax',
       model: 'sg oc',

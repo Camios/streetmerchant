@@ -36,17 +36,17 @@ export const Igamecomputer: Store = {
     },
     {
       brand: 'colorful',
-      model: 'igame advanced',
+      model: 'igame advanced oc',
       series: '3080',
       url:
-        'https://www.igamecomputer.com.au/products/mc024?_pos=4&_sid=42c0f4fc6&_ss=r',
+        'https://www.igamecomputer.com.au/collections/colorful/products/mc025',
     },
     {
       brand: 'colorful',
       model: 'igame advanced oc',
       series: '3080',
       url:
-        'https://www.igamecomputer.com.au/products/mc025?_pos=2&_sid=42c0f4fc6&_ss=r',
+        'https://www.igamecomputer.com.au/collections/colorful/products/mc024',
     },
     {
       brand: 'colorful',
